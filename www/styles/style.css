@@ -1,1 +1,29 @@
-li{margin: 20px; display: inline}
+ul{
+margin-left: 0;
+padding-left: 0;
+list-style-type: none;
+background-color: #036;
+display: inline-block;
+width: 100%;
+}
+
+ul li
+{
+display: inline;
+}
+
+ul a
+{
+display: inline-block;
+padding: 3px 10px 3px 22px;
+text-decoration: none;
+color: #FFF;
+background: #036;
+border-right: 1px solid #FFF;
+}
+
+ul a:hover
+{
+color: #000;
+background-color: #69C;
+}
