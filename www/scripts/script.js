@@ -5,9 +5,10 @@ function gerarPagina() {
 
     // All items we'd like to add
     var navItems = [
-        { href: 'http://google.com', text: 'Google' },
-        { href: 'http://bing.com', text: 'Bing' },
-        { href: 'http://stackoverflow.com', text: 'StackOverflow' }
+        { href: 'http://google.com', text: 'Home' },
+        { href: 'http://bing.com', text: 'Jogador' },
+        { href: 'http://zerozero.com', text: 'Equipa' },
+        { href: 'http://stackoverflow.com', text: 'Competição' },
     ];
 
    // var paginaPrincipal = document.getElementById("paginaPrincipal");
